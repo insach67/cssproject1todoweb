@@ -1,0 +1,106 @@
+body{
+    
+    margin: 0;padding: 0;background-color: whitesmoke;
+}
+
+.one{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 8%;
+    filter: blur(5px);
+
+}
+.back{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.two{
+    font-size: 60px;
+    font-weight: 700;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.box{
+    
+    display: inline-block;
+    justify-content: space-around; 
+}
+.seven{
+   
+    width:13vw;
+    height:40vh;
+    border:3px solid rgb(238,129,118);
+    border-radius: 8px;
+    margin-top: 10px;
+    padding: 10%;
+    box-shadow:6px 5px 6px black ;
+} 
+.ten{
+    
+    text-decoration: line-through;
+    color: red;
+    font-size: 16px;
+    font-family: 'raleway',sans-serif;
+}
+.twelve{
+    color: tomato;
+    font-size: 20px;
+    font-family: 'raleway',sans-serif;
+}
+.cont{
+    position: absolute;
+    top: 50%;
+    left: 39%;
+    
+}
+.nwlst{
+    display:flex;
+    justify-content: center;
+    align-items: center; 
+    align-content: center;
+    flex-flow: column;
+    border: 2px red solid;
+    width: 300px;
+    height: 150px;
+    border-radius:10px;
+   
+}
+.new{
+    position: relative;
+    top: 15px;
+    font-size: 25px;
+    color: tomato;
+   
+}
+.input{
+    position: relative;
+    bottom: 10px;
+    border: tomato 2px solid;
+    border-radius: 5px;
+   
+
+}
+.add{
+    position: relative;
+    bottom: 20px;
+    border: solid 2px red;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+    background-color: red;
+    color: white;
+}
+.one{
+    filter: blur(8px);
+}
+.container{
+    filter: blur(5px);
+}
+.back{
+    filter:blur(5px)
+}

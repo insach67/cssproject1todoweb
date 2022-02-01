@@ -1,0 +1,80 @@
+body{
+    margin: 0;padding: 0;
+    background-color: whitesmoke;
+}
+.one{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 8%;
+    
+
+}
+.back{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.two{
+    font-size: 60px;
+    font-weight: 700;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.box{
+    
+    display: inline-block;
+    justify-content: space-around; 
+}
+.seven{
+   
+    width:13vw;
+    height:40vh;
+    border:3px solid rgb(238,129,118);
+    border-radius: 8px;
+    margin-top: 10px;
+    padding: 10%;
+    box-shadow:6px 5px 6px black ;
+} 
+.ten{
+    
+    text-decoration: line-through;
+    color: red;
+    font-size: 16px;
+    font-family: 'raleway',sans-serif;
+}
+.twelve{
+    color: tomato;
+    font-size: 20px;
+    font-family: 'raleway',sans-serif;
+}
+.bck{
+      font-size: 25px;
+      color: rgb(131, 114, 114);
+      padding: 20px;
+}
+.ar{
+    color: white;
+    border: 2px solid red;
+    background-color: red;
+    border-radius:50% ;
+}
+.inside{
+    position: relative;
+    left: 163px;
+    top: 40%;
+}
+.five{
+    font-size: 30px;
+
+}
+#btn{
+    color: red;
+    
+    
+
+}
